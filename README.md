@@ -49,3 +49,15 @@ This repo uses:
 - [`leetcode-stats-api`](https://leetcode-stats-api.herokuapp.com/) for LeetCode problem count
 - A custom Python script in [`scripts/update_readme.py`](scripts/update_readme.py)
 - A GitHub Actions workflow scheduled to run every day
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/hyogshin/algorithm/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/hyogshin/algorithm/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
